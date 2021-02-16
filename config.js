@@ -34,14 +34,14 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "亲爱的贾郝鸣宝宝": "./imgs/baobao.jpg",
-        "今天是你的生日": "./imgs/shengri.jpg",
-        "作为你的男朋友": "./imgs/nan.jpg",
-        "抱歉我总是让你那么失望": "./imgs/shi.jpg",
-        "贾郝鸣同学": "./imgs/jia.jpg",
-        "23岁生日快乐": "./imgs/sheng.jpg",
-        "以后的生日也请和我一起": "./imgs/yi.jpg",
-        "可以吗？": "./imgs/wen.jpg",
+       // "亲爱的贾郝鸣宝宝": "./imgs/baobao.jpg",
+      //  "今天是你的生日": "./imgs/shengri.jpg",
+      //  "作为你的男朋友": "./imgs/nan.jpg",
+      //  "抱歉我总是让你那么失望": "./imgs/shi.jpg",
+     //   "贾郝鸣同学": "./imgs/jia.jpg",
+      //  "23岁生日快乐": "./imgs/sheng.jpg",
+     //   "以后的生日也请和我一起": "./imgs/yi.jpg",
+      //  "可以吗？": "./imgs/wen.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
     desc: {
